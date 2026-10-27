@@ -1,0 +1,1 @@
+// Código de solución optimizado para el issue técnico
