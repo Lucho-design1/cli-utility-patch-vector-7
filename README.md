@@ -1,5 +1,5 @@
-# Vector 7 Solution
-Solución para el bug en utilidad CLI.
+# cli-utility-patch-vector-7
 
-### Pago
-Pagos vía: https://paypal.me/LucianoBenechCenoz o USDT (TRC20): TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
